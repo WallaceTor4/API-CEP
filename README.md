@@ -1,2 +1,2 @@
-# API-CEP
-Consumindo uma API simples de preenchimento de endereço
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
